@@ -1,0 +1,19 @@
+
+body {
+
+    /* background: "C:\MyCodingClass\week-1\homework\part-2\Bootstrap-Portfolio\concrete_seamless.png" */
+}
+
+img {
+    float: left;
+    width: 20%;
+}
+
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+
+}
